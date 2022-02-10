@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/drawable/messagebackground.xml" value="0.178125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/drawable/receiverchatdrawable.xml" value="0.178125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/drawable/senderchatdrawable.xml" value="0.178125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/activity_chat.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/activity_otp_authentication.xml" value="0.3138888888888889" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/activity_profile.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/activity_set_profile.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/activity_specfic_chat.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/activity_specificchat.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/activity_splash_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/activity_update_profile.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/call_fragment.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/chat_fragment.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/chatviewlayout.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/recieverchatlayout.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/senderchatlayout.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/layout/status_fragment.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/TalkWithBuddies/app/src/main/res/menu/menu.xml" value="0.16197916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

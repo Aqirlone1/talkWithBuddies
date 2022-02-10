@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658814225897",
+    "project_id": "talk-with-buddies",
+    "storage_bucket": "talk-with-buddies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658814225897:android:1c45cda16be9d866ab8f78",
+        "android_client_info": {
+          "package_name": "com.aqirlone.talkwithbuddies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658814225897-dc5r5qv02obuljqo4k750poadc7tvl59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVb7RWc_a6IaQ7ALDWyVdjbOQe-gaNatU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658814225897-dc5r5qv02obuljqo4k750poadc7tvl59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
